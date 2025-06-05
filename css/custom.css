@@ -1,0 +1,14 @@
+.navbar-brand img {
+    width: 150px;
+    height: auto !important;
+}
+header.masthead {
+    background-image: url(../assets/img/gedung-idb-baru-IRENG.png);
+}
+.text-primary {
+    color: blue !important; 
+}
+.portfolio-item img {
+    height: 300px;
+    object-fit: cover;
+}
